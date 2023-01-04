@@ -10,7 +10,7 @@ This project aims to identify major customer segments on a transnational data se
 ##Problem Description :
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. rfm_model
 
-##The need of customer segmentation:
+## The need of customer segmentation:
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
 Target Marketing
@@ -32,7 +32,7 @@ Monetary Value – How much do they spend?
 
 A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
-##Approach taken
+## Approach taken
 Data inspection
 
 EDA
@@ -43,7 +43,7 @@ Create RFM model
 
 Implementing various clustering Models and validating
 
-##Conclusions:
+## Conclusions:
 Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
 
 Missing and duplicate values were found.
