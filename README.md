@@ -2,7 +2,7 @@
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3530363832342f73637265656e73686f74732f313637303230362f6d656469612f37313437316434373665666664323334383039646538386561626436323239622e676966](https://user-images.githubusercontent.com/106463464/210499537-a8965577-05bb-4b90-b0a5-600152c47b5b.gif)
 
 
-##Introduction:-
+## Introduction:-
 Businesses all over the world are growing every day. With the help of technology, they have access to a wider market and hence, a large customer base. Customer segmentation refers to categorizing customers into different groups with similar characteristics.
 
 This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
