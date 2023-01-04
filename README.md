@@ -19,3 +19,13 @@ Snowfall - cm
 Seasons - Winter, Spring, Summer, Autumn
 Holiday - Holiday/No holiday
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+## Project Flowchart:
+ Loading data and Diagnosing the data
+ Data Filtering
+ EDA of Row data to understand inside correlations
+ Feature Engineering
+ Feature Selection : we are not use much beacuase of limited features in our data(only one feature elemenate using heatmap to escalate multicollinearity  issue)
+ Model Building
+ Model Training and Testing
+ Model Evaluation  & Hyper Parameter tuning
