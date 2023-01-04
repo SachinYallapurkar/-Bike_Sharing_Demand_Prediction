@@ -44,7 +44,7 @@ Create RFM model
 
 Implementing various clustering Models and validating
 
-## Conclusions:
+## Conclusion:
 Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
 
 Missing and duplicate values were found.
