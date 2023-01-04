@@ -67,7 +67,7 @@ Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
       
       XGBoost
       
-    Conclusions:
+ ## Conclusions:
 
 Bike rental count is mostly correlated with the time of the day as it is peak at 8 am morning and 6 pm at evening.
 
