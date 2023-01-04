@@ -1,15 +1,16 @@
 # -Bike_Sharing_Demand_Prediction
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3530363832342f73637265656e73686f74732f313637303230362f6d656469612f37313437316434373665666664323334383039646538386561626436323239622e676966](https://user-images.githubusercontent.com/106463464/210499537-a8965577-05bb-4b90-b0a5-600152c47b5b.gif)
 
 
-Indroduction:-
+##Introduction:-
 Businesses all over the world are growing every day. With the help of technology, they have access to a wider market and hence, a large customer base. Customer segmentation refers to categorizing customers into different groups with similar characteristics.
 
 This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
 
-Problem Description :
+##Problem Description :
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. rfm_model
 
-The need of customer segmentation:
+##The need of customer segmentation:
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
 Target Marketing
@@ -31,7 +32,7 @@ Monetary Value – How much do they spend?
 
 A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
-Approach taken
+##Approach taken
 Data inspection
 
 EDA
@@ -42,7 +43,7 @@ Create RFM model
 
 Implementing various clustering Models and validating
 
-Conclusions:
+##Conclusions:
 Descriptive Analysis: The data exploration of Online customer segmentation dataset shows :
 
 Missing and duplicate values were found.
